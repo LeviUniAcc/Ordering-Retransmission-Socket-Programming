@@ -1,6 +1,6 @@
 import org.junit.Test;
 import main.DataMessage;
-import solution.RetransmissionDatagramSocket;
+import exercise.RetransmissionDatagramSocket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

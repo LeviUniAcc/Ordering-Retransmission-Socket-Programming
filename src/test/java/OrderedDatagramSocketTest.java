@@ -1,6 +1,6 @@
 import org.junit.Test;
 import main.DataMessage;
-import solution.OrderedDatagramSocket;
+import exercise.OrderedDatagramSocket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
